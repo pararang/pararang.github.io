@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Golang on pararang</title>
+    <link>https://pararang.github.io/tags/golang/</link>
+    <description>Recent content in Golang on pararang</description>
+    <image>
+      <title>pararang</title>
+      <url>https://pararang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pararang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2020 15:54:00 +0800</lastBuildDate>
+    <atom:link href="https://pararang.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang: go-pg Error Not Null Violation dengan Zero Value</title>
+      <link>https://pararang.github.io/posts/golang-go-pg-error-not-null-violation-dengan-zero-value/</link>
+      <pubDate>Sat, 22 Aug 2020 15:54:00 +0800</pubDate>
+      <guid>https://pararang.github.io/posts/golang-go-pg-error-not-null-violation-dengan-zero-value/</guid>
+      <description>&lt;p&gt;Tiga bulan terakhir saya berkenalan dengan pekerjaan dan aplikasi yang mengharuskan 90% kode program yang saya tulis menggunakan bahasa pemrograman Go, atau biasa disebut Golang. Aplikasi berupa API ini adalah pengalaman pertama saya menulis program dalam bahasa Go dengan basis kode yang cukup besar.&lt;/p&gt;
+&lt;p&gt;Sebelumnya saya sudah pernah menulis API minimalis menggunakan Go untuk pengambilan kata Bahasa Indonesia secara acak. API ini dapat diutilisasi untuk pembuatan permainan tebak kata atau gambar seperti Gartic.io. Bagi yang berminat, aplikasinya bisa diakses melalui &lt;a href=&#34;https://rapidapi.com/pararang/api/random-indonesian-word/details&#34;&gt;RapidAPI&lt;/a&gt;. Subscribe ya! :)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
