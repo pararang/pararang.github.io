@@ -11,34 +11,21 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2024 22:29:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 10:00:00 +0700</lastBuildDate>
     <atom:link href="https://pararang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide For L2</title>
-      <link>https://pararang.github.io/posts/markdown-syntax.fr/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pararang.github.io/posts/markdown-syntax.fr/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide For RTL</title>
-      <link>https://pararang.github.io/posts/markdown-syntax.fa/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pararang.github.io/posts/markdown-syntax.fa/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <title>Cara Menampilkan Proyek GitHub di Website Pribadi</title>
+      <link>https://pararang.github.io/posts/menampilkan-proyek-github-di-website/</link>
+      <pubDate>Thu, 21 Aug 2025 10:00:00 +0700</pubDate>
+      <guid>https://pararang.github.io/posts/menampilkan-proyek-github-di-website/</guid>
+      <description>Pelajari bagaimana saya mengotomatisasi penampilan proyek GitHub di website Hugo saya menggunakan GitHub API</description>
     </item>
     <item>
       <title>Deploy Wordpress di Droplet (Legacy) DigitalOcean</title>
       <link>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</link>
       <pubDate>Sun, 03 Nov 2024 22:29:00 +0800</pubDate>
       <guid>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</guid>
-      <description>&lt;h5 id=&#34;langsung-ke-langkah-langkah-teknis&#34;&gt;Langsung ke langkah-langkah teknis&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#wp-docker&#34;&gt;Setup Wordpress dengan Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#nginx-host&#34;&gt;Konfigurasi Nginx di Host sebagai Reverse Proxy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Kemarin saya harus men-deploy worpdress pada hostingan lama berupa droplet tier paling basic di DigitalOcean. Masalahnya, di droplet ini sudah berjalan web apps Laravel yang di-ekspos menggunakan NGINX sebagai webservernya. Selain itu, versi PHP di server tidak kompatibel dengan WordPress terbaru, versi WordPress yang ingin kita gunakan membutuhkan versi PHP yang lebih tinggi dari yang saat ini diinstal di server. Kalau kita update versi PHP di server, ada kemungkinan Laravel yang sudah berjalan sekarang akan terganggu.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Kemarin saya harus men-deploy worpdress pada hostingan lama berupa droplet tier paling basic di DigitalOcean. Masalahnya, di droplet ini sudah berjalan web apps Laravel yang di-ekspos menggunakan NGINX sebagai webservernya. Selain itu, versi PHP di server tidak kompatibel dengan WordPress terbaru, versi WordPress yang ingin kita gunakan membutuhkan versi PHP yang lebih tinggi dari yang saat ini diinstal di server. Kalau kita update versi PHP di server, ada kemungkinan Laravel yang sudah berjalan sekarang akan terganggu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mengelolah Akses SSH Github dengan Multipel Akun pada MacOS</title>
@@ -46,7 +33,7 @@
       <pubDate>Mon, 12 Jun 2023 21:04:00 +0800</pubDate>
       <guid>https://pararang.github.io/posts/mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</guid>
       <description>&lt;p&gt;!!!! &lt;strong&gt;TL;DR: masalah yang tidak akan muncul jika merasa tenang memakai satu ssh key untuk segala tempat :)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;think!&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgflip.com/a39hmw.jpg?classes=caption&#34; title=&#34;generated via imgflip&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;think!&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgflip.com/a39hmw.jpg#center?classes=caption&#34; title=&#34;generated via imgflip&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Salah satu masalah klasik yang sering saya hadapi sebagai software developer adalah ketika harus bekerja dengan &lt;strong&gt;beberapa akun GitHub&lt;/strong&gt; di laptop/pc yang sama. Misal, akun github personal dan akun github kantor yang masing-masing saya buatkan ssh key-nya.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Akun &lt;strong&gt;personal&lt;/strong&gt; &lt;code&gt;@pararang&lt;/code&gt; untuk project open source dan pribadi.&lt;/li&gt;
@@ -61,7 +48,7 @@
       <guid>https://pararang.github.io/posts/ubuntu-melacak-dan-membersihkan-storage-server/</guid>
       <description>&lt;p&gt;Saya memiliki sebuah droplet kecil-kecilan di Digital Ocean yang saya isi dengan Ubuntu. Server minimalis ini saya gunakan untuk server dev proyek-proyek di &lt;a href=&#34;https://apla.us&#34;&gt;apla[dot]us&lt;/a&gt; maupun kerjaan dari beberapa rekan, juga beberapa proyek pribadi, termasuk blog ini.&lt;/p&gt;
 &lt;p&gt;Beberapa hari kemarin, saat saya men-setup deployment CI/CD (dev) proyek Laravel, script envoy-nya selalu gagal saat menginstall packages yang diperlukan, &lt;code&gt;composer install&lt;/code&gt;. Selidik punya selidik dari error pipeline di Gitlab, ternyata server dengan kapasitas 20GB saya sudah penuh.
-&lt;img alt=&#34;cat server full&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;</description>
+&lt;img alt=&#34;cat server full&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Laravel Livewire: Mengubah Personal Workflow Blade-esque ke Komponen Class</title>
@@ -82,7 +69,7 @@
       <pubDate>Sun, 27 Sep 2020 00:09:00 +0800</pubDate>
       <guid>https://pararang.github.io/posts/hacktoberfest-2020-fest-fest-an-programer/</guid>
       <description>&lt;p&gt;Sebentar lagi Oktober, meme Green Day yang &amp;ldquo;Wake Me Up When September Ends&amp;rdquo; bakal ramai lagi di-up. Sementara di lokalan +62, tema G30 -S PKI yang menjadi tema wajib penghujung September sudah pasti akan ramai lagi.  Semacam tema wajib yang tidak afdol kalau tidak diributkan setiap tahunnya.
-&lt;img alt=&#34;green day&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/gjxrPwCHWkXrWgYNua/source.gif?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;green day&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/gjxrPwCHWkXrWgYNua/source.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Di lingkaran pekerja dan pegiat teknologi baik profesional maupun pelajar, khususnya yang berprofesi sebagai perekayasa perangkat lunak, akhir September berarti waktunya untuk memonitor info fest-fest-an programer sedunia, Hacktoberfest. Even internasional yang dilaksanakan sebulan penuh di bulan Oktober sebagai bentuk dukungan komunitas global terhadap pengembangan aplikasi dengan konsep &lt;a href=&#34;https://id.wikipedia.org/wiki/Sumber_terbuka&#34;&gt;sumber terbuka&lt;/a&gt; (open source).
 !!!! Hacktoberfest® is open to everyone in our global community. Whether you&amp;rsquo;re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. - &lt;a href=&#34;https://hacktoberfest.digitalocean.com/&#34;&gt;Hacktoberfest&lt;/a&gt;&lt;/p&gt;</description>
     </item>
@@ -101,30 +88,9 @@
       <guid>https://pararang.github.io/posts/fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</guid>
       <description>&lt;p&gt;Beberapa hari yang lalu melakukan upgrade package pada laptop Lenovo Yoga C640 pinjaman dari kantor yang disi dengan Ubuntu 18.04. Setelah upgrade, termasuk pembaharuan kernel ke modul linux-image-5.3.0-61-generic, semuanya berjalan baik-baik saja.&lt;/p&gt;
 &lt;p&gt;Masalah baru muncul setelah laptop saya restart, saya tidak menemukan icon wireless pada taskbar yang bisanya otomatis menyala dan terkoneksi dengan jaringan internet rumah.
-&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/yjos61Qgsy17q/source.gif?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/yjos61Qgsy17q/source.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Setelah mengecek pada bagian pengaturan barulah ketahuan kalau ternyata adapter wifi-nya tidak terdeteksi. Alih-alih memunculkan list jaringan wifi yang tersedia, yang muncul malah tulisan No Wi-Fi Adapter Found seperti pada gambar berikut.
-&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://i.ibb.co/gWRX76B/wifi-driver-not-found.png?classes=caption&#34; title=&#34;GUI Setting Wi-Fi Ubuntu&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://pararang.github.io/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pararang.github.io/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>https://pararang.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pararang.github.io/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://pararang.github.io/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pararang.github.io/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
+&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://i.ibb.co/gWRX76B/wifi-driver-not-found.png#center?classes=caption&#34; title=&#34;GUI Setting Wi-Fi Ubuntu&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Python: Membaca isi Folder dan Membuat List Nama File</title>
@@ -132,7 +98,7 @@
       <pubDate>Sat, 19 May 2018 00:00:00 +0800</pubDate>
       <guid>https://pararang.github.io/posts/python-membaca-isi-folder-dan-membuat-list-nama-file/</guid>
       <description>&lt;p&gt;Beberapa hari yang lalu, tepatnya sepekan belakangan ini saya sibuk pilih-pilih foto nikahan bareng istri untuk keperluan dicetak dan dialbumkan. FYI, saya baru aja nikah akhir April kemaren.
-&lt;img alt=&#34;kumpulan esai berbagi ruang&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/GStLeae4F7VIs/source.gif?classes=caption&#34; title=&#34;GIF via GIPHY&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;kumpulan esai berbagi ruang&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/GStLeae4F7VIs/source.gif#center?classes=caption&#34; title=&#34;GIF via GIPHY&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Dari 1.172 foto yang kami dapat, si fotografer meminta kami memilih 240 foto untuk dicetak. Bukan pekerjaan gampang, makanya ngambil waktu semingguan lebih, bahkan sebelum ditinggal istri untuk keperluan kantornya, kami baru bisa memilih sampai 300 besar. Artinya tugas saya mengurangi 60 foto lagi dan ternyata bisa dalam sehari, meskipun cukup sulit memilih yang terbaik dari yang terbaik :)&lt;/p&gt;</description>
     </item>
     <item>
@@ -165,9 +131,9 @@
       <pubDate>Tue, 17 Nov 2015 14:07:00 +0800</pubDate>
       <guid>https://pararang.github.io/posts/pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</guid>
       <description>&lt;p&gt;Sekitar sebulan lalu saya ke sebuah mall ternama di Bogor, sebut saja Boqer. Niatnya untuk melihat-lihat harga sepatu, kalau ada yang cocok dengan selera dan kantong mungkin bisa langsung saya beli. Dari hasil inspeksi tiap lantai di Boqer saya menemukan beberapa pasang sepatu yang sesuai selera dan cocok dengan kantong– dengan ketentuan untuk dua minggu kedepan harus makan mie instan campur kardus sepatu.
-&lt;img alt=&#34;broke af&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/9tXsHk64zEw9DwjPYz/source.gif?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;broke af&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/9tXsHk64zEw9DwjPYz/source.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Misi utama sudah terlaksana meskipun bisa dikatakan gak sukses-sukses amat. Selanjutnya adalah misi wajib setiap kunjungan ke mall, wisata literasi alias mampir sebentar ke Gramedia. Urutannya adalah baca beberapa komik, keliling-keliling say hai ke buku terbitan baru, baca cover belakangnya; entah potongan isi ataupun potongan pengantar atau mungkin testimoni dari beberapa selebtwit yang akhir-akhir ini agak ngetren. Namun yang utama dari pengecekan cover belakang buku adalah memeriksa &lt;a href=&#34;https://id.wikipedia.org/wiki/International_Standard_Book_Number&#34;&gt;kode ISBN&lt;/a&gt; yang biasanya tidak jauh dari situ terdapat tempelan harga :)
-&lt;img alt=&#34;books&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/3o7btW1Js39uJ23LAA/giphy.gif?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;</description>
+&lt;img alt=&#34;books&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/3o7btW1Js39uJ23LAA/giphy.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>

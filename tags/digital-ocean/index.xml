@@ -20,7 +20,7 @@
       <guid>https://pararang.github.io/posts/ubuntu-melacak-dan-membersihkan-storage-server/</guid>
       <description>&lt;p&gt;Saya memiliki sebuah droplet kecil-kecilan di Digital Ocean yang saya isi dengan Ubuntu. Server minimalis ini saya gunakan untuk server dev proyek-proyek di &lt;a href=&#34;https://apla.us&#34;&gt;apla[dot]us&lt;/a&gt; maupun kerjaan dari beberapa rekan, juga beberapa proyek pribadi, termasuk blog ini.&lt;/p&gt;
 &lt;p&gt;Beberapa hari kemarin, saat saya men-setup deployment CI/CD (dev) proyek Laravel, script envoy-nya selalu gagal saat menginstall packages yang diperlukan, &lt;code&gt;composer install&lt;/code&gt;. Selidik punya selidik dari error pipeline di Gitlab, ternyata server dengan kapasitas 20GB saya sudah penuh.
-&lt;img alt=&#34;cat server full&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;</description>
+&lt;img alt=&#34;cat server full&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

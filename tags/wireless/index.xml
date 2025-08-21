@@ -20,9 +20,9 @@
       <guid>https://pararang.github.io/posts/fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</guid>
       <description>&lt;p&gt;Beberapa hari yang lalu melakukan upgrade package pada laptop Lenovo Yoga C640 pinjaman dari kantor yang disi dengan Ubuntu 18.04. Setelah upgrade, termasuk pembaharuan kernel ke modul linux-image-5.3.0-61-generic, semuanya berjalan baik-baik saja.&lt;/p&gt;
 &lt;p&gt;Masalah baru muncul setelah laptop saya restart, saya tidak menemukan icon wireless pada taskbar yang bisanya otomatis menyala dan terkoneksi dengan jaringan internet rumah.
-&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/yjos61Qgsy17q/source.gif?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/yjos61Qgsy17q/source.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Setelah mengecek pada bagian pengaturan barulah ketahuan kalau ternyata adapter wifi-nya tidak terdeteksi. Alih-alih memunculkan list jaringan wifi yang tersedia, yang muncul malah tulisan No Wi-Fi Adapter Found seperti pada gambar berikut.
-&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://i.ibb.co/gWRX76B/wifi-driver-not-found.png?classes=caption&#34; title=&#34;GUI Setting Wi-Fi Ubuntu&#34;&gt;&lt;/p&gt;</description>
+&lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://i.ibb.co/gWRX76B/wifi-driver-not-found.png#center?classes=caption&#34; title=&#34;GUI Setting Wi-Fi Ubuntu&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -18,13 +18,7 @@
       <link>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</link>
       <pubDate>Sun, 03 Nov 2024 22:29:00 +0800</pubDate>
       <guid>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</guid>
-      <description>&lt;h5 id=&#34;langsung-ke-langkah-langkah-teknis&#34;&gt;Langsung ke langkah-langkah teknis&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#wp-docker&#34;&gt;Setup Wordpress dengan Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#nginx-host&#34;&gt;Konfigurasi Nginx di Host sebagai Reverse Proxy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Kemarin saya harus men-deploy worpdress pada hostingan lama berupa droplet tier paling basic di DigitalOcean. Masalahnya, di droplet ini sudah berjalan web apps Laravel yang di-ekspos menggunakan NGINX sebagai webservernya. Selain itu, versi PHP di server tidak kompatibel dengan WordPress terbaru, versi WordPress yang ingin kita gunakan membutuhkan versi PHP yang lebih tinggi dari yang saat ini diinstal di server. Kalau kita update versi PHP di server, ada kemungkinan Laravel yang sudah berjalan sekarang akan terganggu.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Kemarin saya harus men-deploy worpdress pada hostingan lama berupa droplet tier paling basic di DigitalOcean. Masalahnya, di droplet ini sudah berjalan web apps Laravel yang di-ekspos menggunakan NGINX sebagai webservernya. Selain itu, versi PHP di server tidak kompatibel dengan WordPress terbaru, versi WordPress yang ingin kita gunakan membutuhkan versi PHP yang lebih tinggi dari yang saat ini diinstal di server. Kalau kita update versi PHP di server, ada kemungkinan Laravel yang sudah berjalan sekarang akan terganggu.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

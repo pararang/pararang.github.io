@@ -11,15 +11,22 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 21:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 10:00:00 +0700</lastBuildDate>
     <atom:link href="https://pararang.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menampilkan Proyek GitHub di Website Pribadi</title>
+      <link>https://pararang.github.io/posts/menampilkan-proyek-github-di-website/</link>
+      <pubDate>Thu, 21 Aug 2025 10:00:00 +0700</pubDate>
+      <guid>https://pararang.github.io/posts/menampilkan-proyek-github-di-website/</guid>
+      <description>Pelajari bagaimana saya mengotomatisasi penampilan proyek GitHub di website Hugo saya menggunakan GitHub API</description>
+    </item>
     <item>
       <title>Mengelolah Akses SSH Github dengan Multipel Akun pada MacOS</title>
       <link>https://pararang.github.io/posts/mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</link>
       <pubDate>Mon, 12 Jun 2023 21:04:00 +0800</pubDate>
       <guid>https://pararang.github.io/posts/mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</guid>
       <description>&lt;p&gt;!!!! &lt;strong&gt;TL;DR: masalah yang tidak akan muncul jika merasa tenang memakai satu ssh key untuk segala tempat :)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;think!&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgflip.com/a39hmw.jpg?classes=caption&#34; title=&#34;generated via imgflip&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;think!&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgflip.com/a39hmw.jpg#center?classes=caption&#34; title=&#34;generated via imgflip&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Salah satu masalah klasik yang sering saya hadapi sebagai software developer adalah ketika harus bekerja dengan &lt;strong&gt;beberapa akun GitHub&lt;/strong&gt; di laptop/pc yang sama. Misal, akun github personal dan akun github kantor yang masing-masing saya buatkan ssh key-nya.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Akun &lt;strong&gt;personal&lt;/strong&gt; &lt;code&gt;@pararang&lt;/code&gt; untuk project open source dan pribadi.&lt;/li&gt;
