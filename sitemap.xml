@@ -8,71 +8,11 @@
     <loc>https://pararang.github.io/posts/</loc>
     <lastmod>2025-08-21T18:33:03+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/tags/api/</loc>
-    <lastmod>2025-08-21T10:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/automasi/</loc>
-    <lastmod>2025-08-21T10:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/posts/menampilkan-proyek-github-di-website/</loc>
-    <lastmod>2025-08-21T10:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/github/</loc>
-    <lastmod>2025-08-21T10:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/hugo/</loc>
-    <lastmod>2025-08-21T10:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/</loc>
-    <lastmod>2025-08-21T10:00:00+07:00</lastmod>
-  </url><url>
     <loc>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</loc>
     <lastmod>2024-11-03T22:29:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/tags/docker/</loc>
-    <lastmod>2024-11-03T22:29:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/linux/</loc>
-    <lastmod>2024-11-03T22:29:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/nginx/</loc>
-    <lastmod>2024-11-03T22:29:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/server/</loc>
-    <lastmod>2024-11-03T22:29:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/ubuntu/</loc>
-    <lastmod>2024-11-03T22:29:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/wordpress/</loc>
-    <lastmod>2024-11-03T22:29:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/bash/</loc>
-    <lastmod>2023-06-12T21:04:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/catatan/</loc>
-    <lastmod>2023-06-12T21:04:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/macos/</loc>
-    <lastmod>2023-06-12T21:04:00+08:00</lastmod>
-  </url><url>
     <loc>https://pararang.github.io/posts/mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</loc>
     <lastmod>2023-06-12T21:04:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/scripting/</loc>
-    <lastmod>2023-06-12T21:04:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/ssh/</loc>
-    <lastmod>2023-06-12T21:04:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/tutorial/</loc>
-    <lastmod>2023-06-12T21:04:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/digital-ocean/</loc>
-    <lastmod>2021-03-06T13:37:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/laravel/</loc>
-    <lastmod>2021-03-06T13:37:00+08:00</lastmod>
   </url><url>
     <loc>https://pararang.github.io/posts/ubuntu-melacak-dan-membersihkan-storage-server/</loc>
     <lastmod>2021-03-06T13:37:00+08:00</lastmod>
@@ -80,47 +20,14 @@
     <loc>https://pararang.github.io/posts/laravel-livewire-mengubah-personal-workflow-blade-esque-ke-komponen-class/</loc>
     <lastmod>2020-11-29T17:22:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/tags/livewire/</loc>
-    <lastmod>2020-11-29T17:22:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/pemrograman/</loc>
-    <lastmod>2020-11-29T17:22:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/php/</loc>
-    <lastmod>2020-11-29T17:22:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/hacktoberfest/</loc>
-    <lastmod>2020-09-27T00:09:00+08:00</lastmod>
-  </url><url>
     <loc>https://pararang.github.io/posts/hacktoberfest-2020-fest-fest-an-programer/</loc>
     <lastmod>2020-09-27T00:09:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/database/</loc>
-    <lastmod>2020-08-22T15:54:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/golang/</loc>
-    <lastmod>2020-08-22T15:54:00+08:00</lastmod>
   </url><url>
     <loc>https://pararang.github.io/posts/golang-go-pg-error-not-null-violation-dengan-zero-value/</loc>
     <lastmod>2020-08-22T15:54:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/tags/postgresql/</loc>
-    <lastmod>2020-08-22T15:54:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/sql/</loc>
-    <lastmod>2020-08-22T15:54:00+08:00</lastmod>
-  </url><url>
     <loc>https://pararang.github.io/posts/fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</loc>
     <lastmod>2020-06-30T15:27:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/internet/</loc>
-    <lastmod>2020-06-30T15:27:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/wireless/</loc>
-    <lastmod>2020-06-30T15:27:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/python/</loc>
-    <lastmod>2018-05-19T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://pararang.github.io/posts/python-membaca-isi-folder-dan-membuat-list-nama-file/</loc>
     <lastmod>2018-05-19T00:00:00+08:00</lastmod>
@@ -128,68 +35,20 @@
     <loc>https://pararang.github.io/posts/berbagi-ruang-kumpulan-esai-tentang-hal-remeh-temeh/</loc>
     <lastmod>2018-01-10T11:23:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/tags/blogger/</loc>
-    <lastmod>2018-01-10T11:23:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/buku/</loc>
-    <lastmod>2018-01-10T11:23:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/essai/</loc>
-    <lastmod>2018-01-10T11:23:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/ulasan/</loc>
-    <lastmod>2018-01-10T11:23:00+08:00</lastmod>
-  </url><url>
     <loc>https://pararang.github.io/posts/dunia-sophie-sebuah-novel-filsafat/</loc>
     <lastmod>2015-12-27T23:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/fiksi/</loc>
-    <lastmod>2015-12-27T23:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/filsafat/</loc>
-    <lastmod>2015-12-27T23:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/joestein-gaarder/</loc>
-    <lastmod>2015-12-27T23:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/novel/</loc>
-    <lastmod>2015-12-27T23:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/terjemahan/</loc>
-    <lastmod>2015-12-27T23:15:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/battle-royale/</loc>
-    <lastmod>2015-12-02T23:08:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/eikura-nana/</loc>
-    <lastmod>2015-12-02T23:08:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/film-jepang/</loc>
-    <lastmod>2015-12-02T23:08:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/kuriyama-chiaki/</loc>
-    <lastmod>2015-12-02T23:08:00+08:00</lastmod>
   </url><url>
     <loc>https://pararang.github.io/posts/library-wars-2013-melindungi-buku-melawan-peluru-dengan-peluru/</loc>
     <lastmod>2015-12-02T23:08:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/tags/sensor-media/</loc>
-    <lastmod>2015-12-02T23:08:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/botani-square/</loc>
-    <lastmod>2015-11-17T14:07:00+08:00</lastmod>
-  </url><url>
-    <loc>https://pararang.github.io/tags/gramedia/</loc>
-    <lastmod>2015-11-17T14:07:00+08:00</lastmod>
-  </url><url>
     <loc>https://pararang.github.io/posts/pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</loc>
     <lastmod>2015-11-17T14:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://pararang.github.io/series/</loc>
   </url><url>
     <loc>https://pararang.github.io/archives.fr/</loc>
   </url><url>
     <loc>https://pararang.github.io/archives/</loc>
-  </url><url>
-    <loc>https://pararang.github.io/categories/</loc>
   </url><url>
     <loc>https://pararang.github.io/projects/</loc>
   </url><url>
