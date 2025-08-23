@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://pararang.github.io/sitemap.xml
+Sitemap: https://pararang.com/sitemap.xml

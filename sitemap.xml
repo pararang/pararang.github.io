@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pararang.github.io/</loc>
+    <loc>https://pararang.com/</loc>
     <lastmod>2025-08-21T18:33:03+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/</loc>
+    <loc>https://pararang.com/posts/</loc>
     <lastmod>2025-08-21T18:33:03+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</loc>
+    <loc>https://pararang.com/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</loc>
     <lastmod>2024-11-03T22:29:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/akses-ssh-github-dengan-multipel-akun/</loc>
+    <loc>https://pararang.com/posts/akses-ssh-github-dengan-multipel-akun/</loc>
     <lastmod>2023-06-12T21:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/ubuntu-melacak-dan-membersihkan-storage-server/</loc>
+    <loc>https://pararang.com/posts/ubuntu-melacak-dan-membersihkan-storage-server/</loc>
     <lastmod>2021-03-06T13:37:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/laravel-livewire-mengubah-personal-workflow-blade-esque-ke-komponen-class/</loc>
+    <loc>https://pararang.com/posts/laravel-livewire-mengubah-personal-workflow-blade-esque-ke-komponen-class/</loc>
     <lastmod>2020-11-29T17:22:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/hacktoberfest-2020-fest-fest-an-programer/</loc>
+    <loc>https://pararang.com/posts/hacktoberfest-2020-fest-fest-an-programer/</loc>
     <lastmod>2020-09-27T00:09:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/golang-go-pg-error-not-null-violation-dengan-zero-value/</loc>
+    <loc>https://pararang.com/posts/golang-go-pg-error-not-null-violation-dengan-zero-value/</loc>
     <lastmod>2020-08-22T15:54:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</loc>
+    <loc>https://pararang.com/posts/fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</loc>
     <lastmod>2020-06-30T15:27:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/python-membaca-isi-folder-dan-membuat-list-nama-file/</loc>
+    <loc>https://pararang.com/posts/python-membaca-isi-folder-dan-membuat-list-nama-file/</loc>
     <lastmod>2018-05-19T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/berbagi-ruang-kumpulan-esai-tentang-hal-remeh-temeh/</loc>
+    <loc>https://pararang.com/posts/berbagi-ruang-kumpulan-esai-tentang-hal-remeh-temeh/</loc>
     <lastmod>2018-01-10T11:23:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/dunia-sophie-sebuah-novel-filsafat/</loc>
+    <loc>https://pararang.com/posts/dunia-sophie-sebuah-novel-filsafat/</loc>
     <lastmod>2015-12-27T23:15:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/library-wars-2013-melindungi-buku-melawan-peluru-dengan-peluru/</loc>
+    <loc>https://pararang.com/posts/library-wars-2013-melindungi-buku-melawan-peluru-dengan-peluru/</loc>
     <lastmod>2015-12-02T23:08:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/posts/pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</loc>
+    <loc>https://pararang.com/posts/pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</loc>
     <lastmod>2015-11-17T14:07:00+08:00</lastmod>
   </url><url>
-    <loc>https://pararang.github.io/series/</loc>
+    <loc>https://pararang.com/series/</loc>
   </url><url>
-    <loc>https://pararang.github.io/archives.fr/</loc>
+    <loc>https://pararang.com/archives.fr/</loc>
   </url><url>
-    <loc>https://pararang.github.io/archives/</loc>
+    <loc>https://pararang.com/archives/</loc>
   </url><url>
-    <loc>https://pararang.github.io/projects/</loc>
+    <loc>https://pararang.com/projects/</loc>
   </url><url>
-    <loc>https://pararang.github.io/search/</loc>
+    <loc>https://pararang.com/search/</loc>
   </url><url>
-    <loc>https://pararang.github.io/search.fr/</loc>
+    <loc>https://pararang.com/search.fr/</loc>
   </url><url>
-    <loc>https://pararang.github.io/taxonomies/</loc>
+    <loc>https://pararang.com/taxonomies/</loc>
   </url>
 </urlset>
