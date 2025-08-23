@@ -15,16 +15,16 @@
     <atom:link href="https://pararang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploy Wordpress di Droplet (Legacy) DigitalOcean</title>
-      <link>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</link>
+      <link>https://pararang.github.io/posts/20241103-deploy-wordpress-di-droplet-legacy-digitalocean/</link>
       <pubDate>Sun, 03 Nov 2024 22:29:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/deploy-wordpress-di-droplet-legacy-digitalocean/</guid>
+      <guid>https://pararang.github.io/posts/20241103-deploy-wordpress-di-droplet-legacy-digitalocean/</guid>
       <description>&lt;p&gt;Kemarin saya harus men-deploy worpdress pada hostingan lama berupa droplet tier paling basic di DigitalOcean. Masalahnya, di droplet ini sudah berjalan web apps Laravel yang di-ekspos menggunakan NGINX sebagai webservernya. Selain itu, versi PHP di server tidak kompatibel dengan WordPress terbaru, versi WordPress yang ingin kita gunakan membutuhkan versi PHP yang lebih tinggi dari yang saat ini diinstal di server. Kalau kita update versi PHP di server, ada kemungkinan Laravel yang sudah berjalan sekarang akan terganggu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mengelolah Akses SSH Github dengan Multipel Akun pada MacOS</title>
-      <link>https://pararang.github.io/posts/mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</link>
+      <link>https://pararang.github.io/posts/20230612-mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</link>
       <pubDate>Mon, 12 Jun 2023 21:04:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</guid>
+      <guid>https://pararang.github.io/posts/20230612-mengelolah-akses-ssh-github-dengan-multipel-akun-pada-macos/</guid>
       <description>&lt;p&gt;!!!! &lt;strong&gt;TL;DR: masalah yang tidak akan muncul jika merasa tenang memakai satu ssh key untuk segala tempat :)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;think!&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgflip.com/a39hmw.jpg#center?classes=caption&#34; title=&#34;generated via imgflip&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Salah satu masalah klasik yang sering saya hadapi sebagai software developer adalah ketika harus bekerja dengan &lt;strong&gt;beberapa akun GitHub&lt;/strong&gt; di laptop/pc yang sama. Misal, akun github personal dan akun github kantor yang masing-masing saya buatkan ssh key-nya.&lt;/p&gt;
@@ -36,18 +36,18 @@
     </item>
     <item>
       <title>Ubuntu: Melacak dan Membersihkan Storage Server</title>
-      <link>https://pararang.github.io/posts/ubuntu-melacak-dan-membersihkan-storage-server/</link>
+      <link>https://pararang.github.io/posts/20210306-ubuntu-melacak-dan-membersihkan-storage-server/</link>
       <pubDate>Sat, 06 Mar 2021 13:37:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/ubuntu-melacak-dan-membersihkan-storage-server/</guid>
+      <guid>https://pararang.github.io/posts/20210306-ubuntu-melacak-dan-membersihkan-storage-server/</guid>
       <description>&lt;p&gt;Saya memiliki sebuah droplet kecil-kecilan di Digital Ocean yang saya isi dengan Ubuntu. Server minimalis ini saya gunakan untuk server dev proyek-proyek di &lt;a href=&#34;https://apla.us&#34;&gt;apla[dot]us&lt;/a&gt; maupun kerjaan dari beberapa rekan, juga beberapa proyek pribadi, termasuk blog ini.&lt;/p&gt;
 &lt;p&gt;Beberapa hari kemarin, saat saya men-setup deployment CI/CD (dev) proyek Laravel, script envoy-nya selalu gagal saat menginstall packages yang diperlukan, &lt;code&gt;composer install&lt;/code&gt;. Selidik punya selidik dari error pipeline di Gitlab, ternyata server dengan kapasitas 20GB saya sudah penuh.
 &lt;img alt=&#34;cat server full&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Laravel Livewire: Mengubah Personal Workflow Blade-esque ke Komponen Class</title>
-      <link>https://pararang.github.io/posts/laravel-livewire-mengubah-personal-workflow-blade-esque-ke-komponen-class/</link>
+      <link>https://pararang.github.io/posts/20201129-laravel-livewire-mengubah-personal-workflow-blade-esque-ke-komponen-class/</link>
       <pubDate>Sun, 29 Nov 2020 17:22:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/laravel-livewire-mengubah-personal-workflow-blade-esque-ke-komponen-class/</guid>
+      <guid>https://pararang.github.io/posts/20201129-laravel-livewire-mengubah-personal-workflow-blade-esque-ke-komponen-class/</guid>
       <description>&lt;p&gt;Sekitar enam bulan tidak berinteraksi dengan &lt;code&gt;blade&lt;/code&gt; pada Laravel, sejak sepekan terakhir mulai lagi dengan mencoba Laravel + &lt;a href=&#34;https://laravel-livewire.com/&#34;&gt;Livewire&lt;/a&gt;. Berhubung saya menggunakan &lt;em&gt;boilerplate&lt;/em&gt; dengan Laravel versi 6, jadinya Livewire yang kompatibel hanya sampai pada versi 1.3.5.&lt;/p&gt;
 &lt;p&gt;Sebelum ada Livewire, hanya ada dua pilihan metode untuk membuat tampilan antarmuka pada Laravel;&lt;/p&gt;
 &lt;ul&gt;
@@ -58,9 +58,9 @@
     </item>
     <item>
       <title>Hacktoberfest 2020, Fest-Fest-an Programer</title>
-      <link>https://pararang.github.io/posts/hacktoberfest-2020-fest-fest-an-programer/</link>
+      <link>https://pararang.github.io/posts/20200927-hacktoberfest-2020-fest-fest-an-programer/</link>
       <pubDate>Sun, 27 Sep 2020 00:09:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/hacktoberfest-2020-fest-fest-an-programer/</guid>
+      <guid>https://pararang.github.io/posts/20200927-hacktoberfest-2020-fest-fest-an-programer/</guid>
       <description>&lt;p&gt;Sebentar lagi Oktober, meme Green Day yang &amp;ldquo;Wake Me Up When September Ends&amp;rdquo; bakal ramai lagi di-up. Sementara di lokalan +62, tema G30 -S PKI yang menjadi tema wajib penghujung September sudah pasti akan ramai lagi.  Semacam tema wajib yang tidak afdol kalau tidak diributkan setiap tahunnya.
 &lt;img alt=&#34;green day&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/gjxrPwCHWkXrWgYNua/source.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Di lingkaran pekerja dan pegiat teknologi baik profesional maupun pelajar, khususnya yang berprofesi sebagai perekayasa perangkat lunak, akhir September berarti waktunya untuk memonitor info fest-fest-an programer sedunia, Hacktoberfest. Even internasional yang dilaksanakan sebulan penuh di bulan Oktober sebagai bentuk dukungan komunitas global terhadap pengembangan aplikasi dengan konsep &lt;a href=&#34;https://id.wikipedia.org/wiki/Sumber_terbuka&#34;&gt;sumber terbuka&lt;/a&gt; (open source).
@@ -68,17 +68,17 @@
     </item>
     <item>
       <title>Golang: go-pg Error Not Null Violation dengan Zero Value</title>
-      <link>https://pararang.github.io/posts/golang-go-pg-error-not-null-violation-dengan-zero-value/</link>
+      <link>https://pararang.github.io/posts/20200822-golang-go-pg-error-not-null-violation-dengan-zero-value/</link>
       <pubDate>Sat, 22 Aug 2020 15:54:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/golang-go-pg-error-not-null-violation-dengan-zero-value/</guid>
+      <guid>https://pararang.github.io/posts/20200822-golang-go-pg-error-not-null-violation-dengan-zero-value/</guid>
       <description>&lt;p&gt;Tiga bulan terakhir saya berkenalan dengan pekerjaan dan aplikasi yang mengharuskan 90% kode program yang saya tulis menggunakan bahasa pemrograman Go, atau biasa disebut Golang. Aplikasi berupa API ini adalah pengalaman pertama saya menulis program dalam bahasa Go dengan basis kode yang cukup besar.&lt;/p&gt;
 &lt;p&gt;Sebelumnya saya sudah pernah menulis API minimalis menggunakan Go untuk pengambilan kata Bahasa Indonesia secara acak. API ini dapat diutilisasi untuk pembuatan permainan tebak kata atau gambar seperti Gartic.io. Bagi yang berminat, aplikasinya bisa diakses melalui &lt;a href=&#34;https://rapidapi.com/pararang/api/random-indonesian-word/details&#34;&gt;RapidAPI&lt;/a&gt;. Subscribe ya! :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fixing Error No Wi-Fi Adapter Found pada Ubuntu 18.04</title>
-      <link>https://pararang.github.io/posts/fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</link>
+      <link>https://pararang.github.io/posts/20200630-fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</link>
       <pubDate>Tue, 30 Jun 2020 15:27:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</guid>
+      <guid>https://pararang.github.io/posts/20200630-fixing-error-no-wi-fi-adapter-found-pada-ubuntu-18-04/</guid>
       <description>&lt;p&gt;Beberapa hari yang lalu melakukan upgrade package pada laptop Lenovo Yoga C640 pinjaman dari kantor yang disi dengan Ubuntu 18.04. Setelah upgrade, termasuk pembaharuan kernel ke modul linux-image-5.3.0-61-generic, semuanya berjalan baik-baik saja.&lt;/p&gt;
 &lt;p&gt;Masalah baru muncul setelah laptop saya restart, saya tidak menemukan icon wireless pada taskbar yang bisanya otomatis menyala dan terkoneksi dengan jaringan internet rumah.
 &lt;img alt=&#34;ubuntu no wi-fi adapter found&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/yjos61Qgsy17q/source.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
@@ -87,42 +87,42 @@
     </item>
     <item>
       <title>Python: Membaca isi Folder dan Membuat List Nama File</title>
-      <link>https://pararang.github.io/posts/python-membaca-isi-folder-dan-membuat-list-nama-file/</link>
+      <link>https://pararang.github.io/posts/20180519-python-membaca-isi-folder-dan-membuat-list-nama-file/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/python-membaca-isi-folder-dan-membuat-list-nama-file/</guid>
+      <guid>https://pararang.github.io/posts/20180519-python-membaca-isi-folder-dan-membuat-list-nama-file/</guid>
       <description>&lt;p&gt;Beberapa hari yang lalu, tepatnya sepekan belakangan ini saya sibuk pilih-pilih foto nikahan bareng istri untuk keperluan dicetak dan dialbumkan. FYI, saya baru aja nikah akhir April kemaren.
 &lt;img alt=&#34;kumpulan esai berbagi ruang&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/GStLeae4F7VIs/source.gif#center?classes=caption&#34; title=&#34;GIF via GIPHY&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Dari 1.172 foto yang kami dapat, si fotografer meminta kami memilih 240 foto untuk dicetak. Bukan pekerjaan gampang, makanya ngambil waktu semingguan lebih, bahkan sebelum ditinggal istri untuk keperluan kantornya, kami baru bisa memilih sampai 300 besar. Artinya tugas saya mengurangi 60 foto lagi dan ternyata bisa dalam sehari, meskipun cukup sulit memilih yang terbaik dari yang terbaik :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Berbagi Ruang: Kumpulan Esai Tentang Hal Remeh Temeh</title>
-      <link>https://pararang.github.io/posts/berbagi-ruang-kumpulan-esai-tentang-hal-remeh-temeh/</link>
+      <link>https://pararang.github.io/posts/20180110-berbagi-ruang-kumpulan-esai-tentang-hal-remeh-temeh/</link>
       <pubDate>Wed, 10 Jan 2018 11:23:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/berbagi-ruang-kumpulan-esai-tentang-hal-remeh-temeh/</guid>
+      <guid>https://pararang.github.io/posts/20180110-berbagi-ruang-kumpulan-esai-tentang-hal-remeh-temeh/</guid>
       <description>&lt;p&gt;&amp;quot; Layaknya makanan, berbagai tulisan dalam bentuk buku ini ibarat kudapan sore hari menemani minum teh hangat atau kopi pahit di beranda belakang rumah. Ada suasana romantik hendak diciptakan. Tak perlu tergesa-gesa menikmatinya. Santai saja. Maka ketika mulai masuk ke dunia yang menghadirkan berbagai kisah, kita merasakan penulisnya sengaja menyajikan semacam remah-remah kehidupan keseharian. Sebagai remah – remah, kesannya seperti tak penting. Bukankah repihan makanan yang jatuh tercecer dari roti atau kue-kue kering, kerap diabaikan lantaran ia seperti sudah seharusnya begitu?&amp;quot;. Begitu potongan pengantar buku ini yang disampaikan oleh Maman S. Mahayana.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dunia Sophie: Sebuah Novel Filsafat</title>
-      <link>https://pararang.github.io/posts/dunia-sophie-sebuah-novel-filsafat/</link>
+      <link>https://pararang.github.io/posts/20151227-dunia-sophie-sebuah-novel-filsafat/</link>
       <pubDate>Sun, 27 Dec 2015 23:15:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/dunia-sophie-sebuah-novel-filsafat/</guid>
+      <guid>https://pararang.github.io/posts/20151227-dunia-sophie-sebuah-novel-filsafat/</guid>
       <description>&lt;p&gt;Dunia Sophie — Sophie Amundsend, seorang pelajar sekolah menengah berusia empat belas tahun. Suatu hari sepulang sekolah, dia mendapat sebuah surat misterius yang hanya berisikan satu pertanyaan: &amp;ldquo;Siapa kamu?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Belum habis keheranannya, pada hari yang sama dia mendapat surat lain yang bertanya: &amp;ldquo;Dari manakah datangnya dunia?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Seakan tersentak dari rutinitas kehidupan sehari-hari, surat-surat itu membuat Sophie mulai mempertanyakan soal-soal mendasar yang tak pernah dipikirkannya selama ini. Dia mulai belajar filsafat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Library Wars (2013): Melindungi Buku, Melawan Peluru dengan Peluru</title>
-      <link>https://pararang.github.io/posts/library-wars-2013-melindungi-buku-melawan-peluru-dengan-peluru/</link>
+      <link>https://pararang.github.io/posts/20151202-library-wars-2013-melindungi-buku-melawan-peluru-dengan-peluru/</link>
       <pubDate>Wed, 02 Dec 2015 23:08:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/library-wars-2013-melindungi-buku-melawan-peluru-dengan-peluru/</guid>
+      <guid>https://pararang.github.io/posts/20151202-library-wars-2013-melindungi-buku-melawan-peluru-dengan-peluru/</guid>
       <description>&lt;p&gt;Library Wars atau orang Jepang nyebutnya Toshokan Sensō adalah film &lt;em&gt;live action&lt;/em&gt; adaptasi dari anime dengan judul yang sama. Sebelum populer dalam bentuk anime, Library Wars lebih dulu populer dalam bentuk manga. Setelah sedikit buka-buka wiki, manga Library Wars adalah adaptasi dari light novel dengan judul yang sama. Maka jadilah paragraf awal ini menunjukkan contoh apa yang disebut adaptasi-ception. :))&lt;/p&gt;
 &lt;p&gt;Light novel Library Wars terdiri atas empat series; Library Wars, Library Infighting, Library Crisis, dan Library Revolution. Ditulis oleh &lt;a href=&#34;https://en.wikipedia.org/wiki/Hiro_Arikawa&#34;&gt;Hiro Arikawa&lt;/a&gt; yang kemudian pertama kali di publikasikan pada Februari 2006. Adaptasi manganya dibuat oleh Kiiro Yumi yang terbit pertama kali pada September 2007. Pada April 2006, episode pertama (dari 12 episode) anime Library Wars ditayangkan stasiun tv FujiTV.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pengalaman Mengganti Buku Salah Cetak ke Gramedia</title>
-      <link>https://pararang.github.io/posts/pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</link>
+      <link>https://pararang.github.io/posts/20151117-pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</link>
       <pubDate>Tue, 17 Nov 2015 14:07:00 +0800</pubDate>
-      <guid>https://pararang.github.io/posts/pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</guid>
+      <guid>https://pararang.github.io/posts/20151117-pengalaman-mengganti-buku-salah-cetak-ke-gramedia/</guid>
       <description>&lt;p&gt;Sekitar sebulan lalu saya ke sebuah mall ternama di Bogor, sebut saja Boqer. Niatnya untuk melihat-lihat harga sepatu, kalau ada yang cocok dengan selera dan kantong mungkin bisa langsung saya beli. Dari hasil inspeksi tiap lantai di Boqer saya menemukan beberapa pasang sepatu yang sesuai selera dan cocok dengan kantong– dengan ketentuan untuk dua minggu kedepan harus makan mie instan campur kardus sepatu.
 &lt;img alt=&#34;broke af&#34; loading=&#34;lazy&#34; src=&#34;https://media.giphy.com/media/9tXsHk64zEw9DwjPYz/source.gif#center?classes=caption&#34; title=&#34;GIF via Giphy&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Misi utama sudah terlaksana meskipun bisa dikatakan gak sukses-sukses amat. Selanjutnya adalah misi wajib setiap kunjungan ke mall, wisata literasi alias mampir sebentar ke Gramedia. Urutannya adalah baca beberapa komik, keliling-keliling say hai ke buku terbitan baru, baca cover belakangnya; entah potongan isi ataupun potongan pengantar atau mungkin testimoni dari beberapa selebtwit yang akhir-akhir ini agak ngetren. Namun yang utama dari pengecekan cover belakang buku adalah memeriksa &lt;a href=&#34;https://id.wikipedia.org/wiki/International_Standard_Book_Number&#34;&gt;kode ISBN&lt;/a&gt; yang biasanya tidak jauh dari situ terdapat tempelan harga :)
