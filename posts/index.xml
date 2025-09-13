@@ -14,7 +14,7 @@
     <lastBuildDate>Thu, 11 Sep 2025 21:27:32 +0800</lastBuildDate>
     <atom:link href="https://pararang.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setup Noindex/Nofollow di Layer Infrastruktur dengan Traefik dan Nginx</title>
+      <title>Setup Meta Tag Noindex/Nofollow di Layer Infrastruktur dengan Traefik</title>
       <link>https://pararang.com/posts/setup-meta-tag-layer-infrastruktur/</link>
       <pubDate>Thu, 11 Sep 2025 21:27:32 +0800</pubDate>
       <guid>https://pararang.com/posts/setup-meta-tag-layer-infrastruktur/</guid>
